@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.Form1.resources
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.csproj.GenerateResource.cache
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\bin\Debug\net6.0-windows\LabAbstractions.exe
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\bin\Debug\net6.0-windows\LabAbstractions.deps.json
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\bin\Debug\net6.0-windows\LabAbstractions.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\bin\Debug\net6.0-windows\LabAbstractions.dll
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\bin\Debug\net6.0-windows\ref\LabAbstractions.dll
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\bin\Debug\net6.0-windows\LabAbstractions.pdb
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.dll
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\ref\LabAbstractions.dll
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.pdb
+C:\Users\HP\Documents\GitHub\LabAbstractions\LabAbstractions\LabAbstractions\obj\Debug\net6.0-windows\LabAbstractions.genruntimeconfig.cache
